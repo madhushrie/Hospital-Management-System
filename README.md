@@ -1,7 +1,7 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
+# Reg No:212224100034
+# Name:Madhu Shrie J
 # Date:
 
 
